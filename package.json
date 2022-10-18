@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/giovanniPepi/Basic-NodeJS#readme",
   "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
     "node": "^18.11.0"
   }
 }
